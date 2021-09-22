@@ -1,0 +1,46 @@
+15
+Tedi
+West1
+20000
+Buca
+East1
+15000
+Blumfild
+Center1
+7500
+Santiago
+South1
+7500
+camp nau
+North1
+9000
+Sansiro
+South2
+10000
+Wembli
+North2
+60000
+Luzhniki
+West1
+50000
+Mishigen
+South1
+50000
+Makarena
+East1
+50000
+MaSocker City
+North2
+8000
+Old Traford
+North2
+50000
+Allianz Arena
+Center1
+50000
+Parc de France
+South1
+1600
+Stamford Bridge
+South1
+8000
